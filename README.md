@@ -4,8 +4,11 @@ Buy products on your any device with our app and enjoy your time with what you w
 
 VeroCart Url: https://okinda-joseph.github.io/verocart/
 
-#DESIGNED BY : HTML, CSS, BOOTSRAP 5,REACT-JAVASCRIPT,
- REACT-BOOSTRAP,REACT-COUNTUP AND SWIPER.
+#DESIGNED BY : HTML, CSS, REACT-JAVASCRIPT
+#BOOTSRAP 5 : https://getbootstrap.com/docs/5.3/getting-started/introduction/
+REACT-BOOTSTRAP: https://react-bootstrap.netlify.app/
+REACT-COUNTUP:https://www.npmjs.com/package/react-countup
+AND SWIPER: https://swiperjs.com/get-started
 
 Take courses on any of your device with our app and learn all about business what you want. Just download and install and start to learn
 
