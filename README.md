@@ -1,6 +1,5 @@
 # VeroCart E-commerce website,
-
-Buy products on your any device with our app and enjoy your time with what you want. Just download and install to shopping with verocart
+VeroCart Online Shopping Destination where we bring the world of shopping right to your fingertips! Whether you're searching for the latest fashion trends, cutting-edge electronics, stylish home décor, or everyday essentials, we've got you covered. Buy products on your any device with our app and enjoy your time with what you want. Just download and install to shopping with verocart
 
 VeroCart Url: https://okinda-joseph.github.io/verocart/
 
