@@ -1,0 +1,18 @@
+.logo-img {
+  width: 40px !important;
+  height: auto;
+  vertical-align: middle !important;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-text {
+  color: #242424;
+  font-size: 24px;
+  font-weight: 700;
+  vertical-align: middle !important;
+}
+
